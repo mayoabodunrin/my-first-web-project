@@ -1,0 +1,15 @@
+footer{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.para{
+    text-justify: inter-word;
+text-align: right;
+    font-size: 10px;
+}
+.poll{
+   text-align: center;
+    font-size: 10px;
+    text-justify: inter-word;
+}
